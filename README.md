@@ -23,7 +23,7 @@ This project is the result of my **30-Day SQL Learning Journey**, where I explor
 
 This project answers 12 core business questions and includes 4 bonus queries that demonstrate advanced use of SQL.
 
-📌 Full list of questions and links to queries can be found in [`docs/business_questions.md`](./docs/business_questions.md)
+📌 Full list of questions and links to queries can be found in [docs/business_questions.md](./sql/docs/business_questions.md)
 
 ---
 
